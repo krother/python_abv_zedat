@@ -89,7 +89,7 @@ Ich werde Dein Programm ausprobieren und sicherstellen, dass es funktioniert. Ic
 
 ## Wie geht's weiter?
 
-![Python-Lernpfade](python_roadmap.svg)
+![Python-Lernpfade](python_roadmap.png)
 
 ## Lizenz
 
