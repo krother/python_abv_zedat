@@ -1,7 +1,7 @@
 
 # Mondrian 2.0
 
-**von Christin Jacobsen (christin.jacobsen@fu-berlin.de)**
+**von Christin Jacobsen**
  
 ![Blume von Mondrian 2.0](blume_mondrian.jpg)
 

@@ -1,7 +1,7 @@
 
 # Minensuche
 
-**von Benny Henning (bennyhenning@zedat.fu-berlin.de)**
+**von Benny Henning**
 
 ![Minensuche von Benny Henning](minensuche.png)
 

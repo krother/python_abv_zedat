@@ -1,7 +1,7 @@
 
 # AktienkursAnalyst 
 
-**von Jeremy Zeisler (jeremy.zeisler@googlemail.com) und Tobias Flörchinger (to-flor@web.de)**
+**von Jeremy Zeisler und Tobias Flörchinger**
 
 *Version vom 06/09/2017*
 
