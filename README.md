@@ -49,9 +49,8 @@ Verwende die Bibliotheken `pygame` oder [`tilegamelib`](https://github.com/kroth
 Um den Stoff des Kurses im Projekt abzubilden, sollte das Programm folgende Kriterien erfüllen:
 
 * Das Programm ist (zumindest teilweise) in Python geschrieben sein.
-* Das Programm verwendet mindestens ein Modul.
+* Das Programm importiert mindestens ein Modul.
 * Das Programm enthält eine selbst geschriebene Funktion.
-* Das Programm ist auf GitHub abgelegt.
 
 ## Abgabe
 
@@ -65,7 +64,7 @@ Für die Abgabe bereite bitte eine README-Datei mit folgendem Inhalt vor:
 * Quellenangaben zu Dateien, die Du nicht selbst erstellt hast (insbesondere urheberrechtlich geschütztes Material)
 * Wenn Du Dein Programm anderen zur Verfügung stellen möchtest, kannst Du z.B. folgenden Satz einbauen: **"Der Programmcode ist unter den Bedingungen der MIT-Lizenz nutzbar"**. 
 
-Zum Einreichen verschickst Du einen Link zu einem GitHub-Repository an `krother@academis.eu`.
+Zum Einreichen verschickst Du das Programm per Mail oder einen Link zu einem GitHub-Repository an `krother@academis.eu`.
 
 ## Bewertung
 
